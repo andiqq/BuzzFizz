@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/andreas/Developer/C#/BuzzFizz/BuzzFizz.csproj": {}
+    "/home/ubuntu/CSharp/BuzzFizz/BuzzFizz.csproj": {}
   },
   "projects": {
-    "/Users/andreas/Developer/C#/BuzzFizz/BuzzFizz.csproj": {
+    "/home/ubuntu/CSharp/BuzzFizz/BuzzFizz.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/andreas/Developer/C#/BuzzFizz/BuzzFizz.csproj",
+        "projectUniqueName": "/home/ubuntu/CSharp/BuzzFizz/BuzzFizz.csproj",
         "projectName": "BuzzFizz",
-        "projectPath": "/Users/andreas/Developer/C#/BuzzFizz/BuzzFizz.csproj",
-        "packagesPath": "/Users/andreas/.nuget/packages/",
-        "outputPath": "/Users/andreas/Developer/C#/BuzzFizz/obj/",
+        "projectPath": "/home/ubuntu/CSharp/BuzzFizz/BuzzFizz.csproj",
+        "packagesPath": "/home/ubuntu/.nuget/packages/",
+        "outputPath": "/home/ubuntu/CSharp/BuzzFizz/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/andreas/.nuget/NuGet/NuGet.Config"
+          "/home/ubuntu/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -50,7 +50,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.102/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/home/ubuntu/dotnet/sdk/3.1.100/RuntimeIdentifierGraph.json"
         }
       }
     }

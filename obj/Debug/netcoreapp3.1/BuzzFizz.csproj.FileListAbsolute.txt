@@ -8,3 +8,14 @@
 /Users/andreas/Developer/C#/BuzzFizz/obj/Debug/netcoreapp3.1/BuzzFizz.AssemblyInfo.cs
 /Users/andreas/Developer/C#/BuzzFizz/obj/Debug/netcoreapp3.1/BuzzFizz.dll
 /Users/andreas/Developer/C#/BuzzFizz/obj/Debug/netcoreapp3.1/BuzzFizz.pdb
+/home/ubuntu/CSharp/BuzzFizz/bin/Debug/netcoreapp3.1/BuzzFizz
+/home/ubuntu/CSharp/BuzzFizz/bin/Debug/netcoreapp3.1/BuzzFizz.deps.json
+/home/ubuntu/CSharp/BuzzFizz/bin/Debug/netcoreapp3.1/BuzzFizz.runtimeconfig.json
+/home/ubuntu/CSharp/BuzzFizz/bin/Debug/netcoreapp3.1/BuzzFizz.runtimeconfig.dev.json
+/home/ubuntu/CSharp/BuzzFizz/bin/Debug/netcoreapp3.1/BuzzFizz.dll
+/home/ubuntu/CSharp/BuzzFizz/bin/Debug/netcoreapp3.1/BuzzFizz.pdb
+/home/ubuntu/CSharp/BuzzFizz/obj/Debug/netcoreapp3.1/BuzzFizz.csprojAssemblyReference.cache
+/home/ubuntu/CSharp/BuzzFizz/obj/Debug/netcoreapp3.1/BuzzFizz.AssemblyInfoInputs.cache
+/home/ubuntu/CSharp/BuzzFizz/obj/Debug/netcoreapp3.1/BuzzFizz.AssemblyInfo.cs
+/home/ubuntu/CSharp/BuzzFizz/obj/Debug/netcoreapp3.1/BuzzFizz.dll
+/home/ubuntu/CSharp/BuzzFizz/obj/Debug/netcoreapp3.1/BuzzFizz.pdb
