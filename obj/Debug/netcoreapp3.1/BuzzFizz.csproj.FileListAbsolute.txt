@@ -1,0 +1,10 @@
+/Users/andreas/Developer/C#/BuzzFizz/bin/Debug/netcoreapp3.1/BuzzFizz.deps.json
+/Users/andreas/Developer/C#/BuzzFizz/bin/Debug/netcoreapp3.1/BuzzFizz.runtimeconfig.json
+/Users/andreas/Developer/C#/BuzzFizz/bin/Debug/netcoreapp3.1/BuzzFizz.runtimeconfig.dev.json
+/Users/andreas/Developer/C#/BuzzFizz/bin/Debug/netcoreapp3.1/BuzzFizz.dll
+/Users/andreas/Developer/C#/BuzzFizz/bin/Debug/netcoreapp3.1/BuzzFizz.pdb
+/Users/andreas/Developer/C#/BuzzFizz/obj/Debug/netcoreapp3.1/BuzzFizz.csprojAssemblyReference.cache
+/Users/andreas/Developer/C#/BuzzFizz/obj/Debug/netcoreapp3.1/BuzzFizz.AssemblyInfoInputs.cache
+/Users/andreas/Developer/C#/BuzzFizz/obj/Debug/netcoreapp3.1/BuzzFizz.AssemblyInfo.cs
+/Users/andreas/Developer/C#/BuzzFizz/obj/Debug/netcoreapp3.1/BuzzFizz.dll
+/Users/andreas/Developer/C#/BuzzFizz/obj/Debug/netcoreapp3.1/BuzzFizz.pdb
