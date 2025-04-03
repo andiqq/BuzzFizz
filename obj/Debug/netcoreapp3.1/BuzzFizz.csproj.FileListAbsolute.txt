@@ -19,3 +19,17 @@
 /home/ubuntu/CSharp/BuzzFizz/obj/Debug/netcoreapp3.1/BuzzFizz.AssemblyInfo.cs
 /home/ubuntu/CSharp/BuzzFizz/obj/Debug/netcoreapp3.1/BuzzFizz.dll
 /home/ubuntu/CSharp/BuzzFizz/obj/Debug/netcoreapp3.1/BuzzFizz.pdb
+/Users/andreas/RiderProjects/BuzzFizz/bin/Debug/netcoreapp3.1/BuzzFizz
+/Users/andreas/RiderProjects/BuzzFizz/bin/Debug/netcoreapp3.1/BuzzFizz.deps.json
+/Users/andreas/RiderProjects/BuzzFizz/bin/Debug/netcoreapp3.1/BuzzFizz.runtimeconfig.json
+/Users/andreas/RiderProjects/BuzzFizz/bin/Debug/netcoreapp3.1/BuzzFizz.runtimeconfig.dev.json
+/Users/andreas/RiderProjects/BuzzFizz/bin/Debug/netcoreapp3.1/BuzzFizz.dll
+/Users/andreas/RiderProjects/BuzzFizz/bin/Debug/netcoreapp3.1/BuzzFizz.pdb
+/Users/andreas/RiderProjects/BuzzFizz/obj/Debug/netcoreapp3.1/BuzzFizz.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andreas/RiderProjects/BuzzFizz/obj/Debug/netcoreapp3.1/BuzzFizz.AssemblyInfoInputs.cache
+/Users/andreas/RiderProjects/BuzzFizz/obj/Debug/netcoreapp3.1/BuzzFizz.AssemblyInfo.cs
+/Users/andreas/RiderProjects/BuzzFizz/obj/Debug/netcoreapp3.1/BuzzFizz.csproj.CoreCompileInputs.cache
+/Users/andreas/RiderProjects/BuzzFizz/obj/Debug/netcoreapp3.1/BuzzFizz.sourcelink.json
+/Users/andreas/RiderProjects/BuzzFizz/obj/Debug/netcoreapp3.1/BuzzFizz.dll
+/Users/andreas/RiderProjects/BuzzFizz/obj/Debug/netcoreapp3.1/BuzzFizz.pdb
+/Users/andreas/RiderProjects/BuzzFizz/obj/Debug/netcoreapp3.1/BuzzFizz.genruntimeconfig.cache

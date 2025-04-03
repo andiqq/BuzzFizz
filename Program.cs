@@ -1,32 +1,14 @@
-﻿using System;
-using static System.Console;
+﻿using static System.Console;
+using System.Linq;
 
-namespace BuzzFizz {
-    class Program {
-        static void Main(string[] args) 
-        {
-            for (int i = 1; i <= 50; i++) 
-            {
-                
-                bool writeNumber = true;
-
-                if (i % 3 == 0) 
-                {
-                    Write("Buzz");
-                    writeNumber = false;
-                }
-                if (i % 5 == 0) 
-                {
-                    Write("Fizz");
-                    writeNumber = false;
-                }
-                if (writeNumber) 
-                {
-                    Write(i);
-                }
-                Write(" ");
-            }
-            WriteLine();
-        }
-    }
-}
+Enumerable.Range(1, 50)
+    .Select(i => (i % 3, i % 5) switch
+    {
+        (0, 0) => "BuzzFizz",
+        (0, _) => "Buzz",
+        (_, 0) => "Fizz",
+        _ => i.ToString()
+    })
+    .ToList()
+    .ForEach(output => Write($"{output} "));
+WriteLine();
